@@ -1,6 +1,7 @@
 # FindMac-Gui
 Powershell script to search for a mac adress in all leases and reservations of all scopes on a M$ dhcp server
 
+![screenshot](https://raw.githubusercontent/telskamp/FindMac-Gui/master/GetMac.png)
 #Usage
 0. Edit the script a nd fill in the address of your dhcp server
 1. Run the script
