@@ -3,7 +3,7 @@ Powershell script to search for a mac adress in all leases and reservations of a
 
 ![screenshot](https://github.com/telskamp/FindMac-Gui/raw/master/GetMac.png)
 
-#Usage
+# Usage
 
 0. Edit the script a nd fill in the address of your dhcp server
 1. Run the script
@@ -16,5 +16,5 @@ Powershell script to search for a mac adress in all leases and reservations of a
 4. Profit
 5. Do it again
 
-#Compatibillity
-Only tested on dhcp 2012R2 you need the dhcp powershell module for this script to work
+# Compatibillity
+Only tested on dhcp 2012R2, you need the dhcp powershell module for this script to work
